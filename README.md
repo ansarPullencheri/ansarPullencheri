@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ansar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-💻 Full Stack Python Developer | 🌐 Web Developer | 📊 Learning AI & Digital Marketing  
+💻 Full Stack Python Developer | 🌐 Web Designer and Developer  
 
 ---
 
 ## 🚀 About Me
-- 🎓 BA in Political Science  
+- 🎓 Bachelor's Degree Art's
 - 🛠 1 Year Experience in Python Django Development  
-- 🌱 Currently learning **Node.js, AI, Digital Marketing**  
+- 🌱 Currently learning **Node.js, Ui/Ux, Digital Marketing**  
 - 💼 Building my web development business  
 - 📍 Based in Kerala, India  
 
