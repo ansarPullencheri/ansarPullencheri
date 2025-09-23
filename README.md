@@ -4,7 +4,9 @@
 
 ---
 
-## 🚀 About Me
+## 🎨 About Me
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" align="right">
+
 - 🎓 BA in Political Science  
 - 🛠 1 Year Experience in Python Django Development  
 - 🌱 Currently learning **Node.js, AI, Digital Marketing**  
@@ -49,4 +51,3 @@
 
 ## 👁️ Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=ansarpullencheri&color=blue)
-
